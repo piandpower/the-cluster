@@ -1,6 +1,7 @@
 Binaries
 DerivedDataCache
 Intermediate
+LocalDerivedDataCache
 Saved
 *.VC.db
 *.opensdf
