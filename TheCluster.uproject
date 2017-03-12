@@ -3,6 +3,12 @@
 	"EngineAssociation": "4.15",
 	"Category": "",
 	"Description": "",
+	"Plugins": [
+		{
+			"Name": "FMODStudio",
+			"Enabled": true
+		}
+	],
 	"TargetPlatforms": [
 		"LinuxNoEditor",
 		"MacNoEditor",
