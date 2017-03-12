@@ -1,0 +1,1 @@
+"%PROGRAMFILES%\Epic Games\UE_4.15\Engine\Binaries\Win64\UE4Editor.exe" "%cd%/TheCluster.uproject" -game
