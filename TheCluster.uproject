@@ -11,10 +11,6 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
-		},
-		{
-			"Name": "AllrightRig",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
