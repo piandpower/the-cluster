@@ -11,6 +11,10 @@
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "ActorSequenceEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
