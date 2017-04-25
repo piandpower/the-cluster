@@ -1,1 +1,1 @@
-"%PROGRAMFILES%\Epic Games\UE_4.15\Engine\Binaries\Win64\UE4Editor.exe" "%cd%/TheCluster.uproject" -game
+"%PROGRAMFILES%\Epic Games\UE_4.15\Engine\Binaries\Win64\UE4Editor.exe" "%cd%/TheCluster.uproject" 10.201.138.103 -game -ResX=640 -ResY=480 -log -nosteam

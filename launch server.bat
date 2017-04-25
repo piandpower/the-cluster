@@ -1,1 +1,1 @@
-"%PROGRAMFILES%\Epic Games\UE_4.15\Engine\Binaries\Win64\UE4Editor.exe" "%cd%/TheCluster.uproject" -server -log
+"%PROGRAMFILES%\Epic Games\UE_4.15\Engine\Binaries\Win64\UE4Editor.exe" "%cd%/TheCluster.uproject" "/Game/ClusterMap/CU-MHMK/Map-MHMK" -server -log -nosteam
